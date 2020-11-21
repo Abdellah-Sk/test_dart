@@ -16,5 +16,4 @@ main () {
 
   print("Mon nom est : $name et j'ai $age ans" );
   print('Mon nom est : ' + name);
-
 }
